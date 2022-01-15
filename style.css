@@ -1,0 +1,74 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.container{
+  width: 700px;
+  height: 550px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2%;
+  padding: 50px;
+}
+
+.div-logo{
+  width: 100%;
+  text-align: center;
+}
+
+.logo{
+  width: 200px;
+  margin: auto;
+}
+
+.title{
+  color: lime;
+  text-align: center;
+  margin: 5px auto;
+  font-family: sans-serif;
+}
+
+.buttons{
+  text-align: center;
+  background-color: lime;
+  padding: 10px;
+}
+
+.sezioni{
+  color: white;
+}
+
+.scritta{
+  font-size: 20px;
+  padding: 3px;
+  display: inline-block;
+  margin-bottom: 0;
+  font-family: sans-serif;
+}
+
+.text{
+  margin: 5px;
+  font-size: 13px;
+  font-family: sans-serif;
+}
+
+.bar{
+  height: 20px;
+  border-radius: 5px;
+}
+
+.orange{
+  background-color: orange;
+  width: 40%;
+}
+
+.green{
+  background-color: limegreen;
+  width: 65%;
+}
+
+.red{
+  background-color: red;
+  width: 25%;
+}
